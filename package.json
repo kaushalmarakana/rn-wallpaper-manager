@@ -1,0 +1,27 @@
+{
+  "name": "rn-wallpaper-manager",
+  "version": "1.0.3",
+  "description": "It is a library to set wallpaper to home screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-setwallpaper",
+    "react-native-wallpaper"
+  ],
+  "author": "Kaushal Marakana",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushalmarakana/rn-wallpaper-manager"
+  },
+  "bugs": {
+    "url": "https://github.com/kaushalmarakana/rn-wallpaper-manager/issues"
+  },
+  "homepage": "https://github.com/kaushalmarakana/rn-wallpaper-manager#readme",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
