@@ -6,9 +6,8 @@
 
 `$ npm install rn-wallpaper-manager --save`
 
-### Mostly automatic installation
+### Mostly automatic installation (If react-native < 0.60)
 
-#react-native < 0.60
 `$ react-native link rn-wallpaper-manager`
 
 ### Manual installation
