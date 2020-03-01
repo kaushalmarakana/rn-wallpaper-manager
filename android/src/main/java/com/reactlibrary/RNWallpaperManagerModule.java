@@ -63,6 +63,6 @@ public class RNWallpaperManagerModule extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "RNWallPaperManager";
+    return "RNWallpaperManagerModule";
   }
 }

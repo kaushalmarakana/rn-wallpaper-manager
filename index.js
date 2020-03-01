@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNWallpaperManager } = NativeModules;
+const { RNWallpaperManagerModule } = NativeModules;
 
-export default RNWallpaperManager;
+export default RNWallpaperManagerModule;
