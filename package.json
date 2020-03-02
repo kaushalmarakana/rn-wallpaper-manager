@@ -1,6 +1,6 @@
 {
   "name": "rn-wallpaper-manager",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "It is a library to set wallpaper to home screen.",
   "main": "index.js",
   "scripts": {
