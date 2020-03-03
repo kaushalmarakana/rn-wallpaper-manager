@@ -3,6 +3,8 @@
 #
 .DS_Store
 
+ios/
+
 # node.js
 #
 node_modules/
